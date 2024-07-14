@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 1000,
+		"[python]": {
+			"files.autoSave": "off"
+		},
+		"editor.fontFamily": "Consolas, 'Courier New', monospace",
+		"workbench.colorTheme": "Cobalt2"
+
+	}
+
+}
