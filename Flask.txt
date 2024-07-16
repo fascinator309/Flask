@@ -1,0 +1,12 @@
+from flask import Flask
+
+import render_template -> for render web page to route
+i.e:
+@app.route('/')
+def hello():
+    return render_template("index.html")
+
+for run flask app:
+if __name__=="__main__":
+    app.run(debug=True,port=33)
+
